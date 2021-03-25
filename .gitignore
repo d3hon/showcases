@@ -2,7 +2,6 @@
 .DS_Store?
 .Rhistory
 .env
-*.csv
 *.log
 *.hyper
 *.ipynb_checkpoints
